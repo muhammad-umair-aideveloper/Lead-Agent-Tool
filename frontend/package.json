@@ -1,0 +1,40 @@
+{
+  "name": "lead-reactivation-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "@mui/material": "5.16.7",
+    "@mui/icons-material": "5.16.7",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "recharts": "^2.12.0",
+    "axios": "^1.7.0",
+    "dayjs": "^1.11.0",
+    "react-dropzone": "^14.2.0",
+    "notistack": "^3.0.0",
+    "swr": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0"
+  },
+  "overrides": {
+    "@mui/material": "5.16.7",
+    "@mui/icons-material": "5.16.7",
+    "@mui/system": "5.16.7",
+    "@mui/styled-engine": "5.16.6"
+  }
+}
