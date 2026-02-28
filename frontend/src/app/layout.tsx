@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Lead Reactivation Agent | Google Antigravity",
+  title: "Lead Reactivation Agent | Antigravity",
   description: "AI-powered autonomous lead reactivation dashboard",
 };
 
