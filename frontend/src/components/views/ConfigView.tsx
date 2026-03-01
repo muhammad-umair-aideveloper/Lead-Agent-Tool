@@ -26,7 +26,7 @@ const TIMEZONES = [
   "America/Chicago",
   "America/Denver",
   "America/Los_Angeles",
-  "America/Phoenix",
+  "America/Washington DC",
   "America/Anchorage",
   "Pacific/Honolulu",
   "Europe/London",
