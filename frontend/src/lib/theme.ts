@@ -5,8 +5,8 @@ import { createTheme } from "@mui/material/styles";
 const theme = createTheme({
   palette: {
     mode: "dark",
-    primary: { main: "#6C63FF" },
-    secondary: { main: "#FF6584" },
+    primary: { main: "#FFD600" },
+    secondary: { main: "#FFC107" },
     background: {
       default: "#0f1117",
       paper: "#1a1d29",
@@ -14,7 +14,7 @@ const theme = createTheme({
     success: { main: "#4CAF50" },
     warning: { main: "#FF9800" },
     error: { main: "#f44336" },
-    info: { main: "#29B6F6" },
+    info: { main: "#FFD600" },
   },
   typography: {
     fontFamily: '"Inter", "Roboto", "Helvetica", "Arial", sans-serif',
